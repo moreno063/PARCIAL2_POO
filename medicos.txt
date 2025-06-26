@@ -1,0 +1,2 @@
+0001|Antonio|antomo|Ocupado|Medico
+0002|aa|aa|Ocupado|Medico
